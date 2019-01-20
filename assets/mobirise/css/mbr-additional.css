@@ -1,0 +1,42 @@
+#menu-0 .navbar-toggler {
+  color: #ffffff;
+}
+#header4-1 H1 {
+  color: #ffffff;
+}
+#slider2-4 H2 {
+  color: #ffffff;
+}
+#msg-box3-5 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-5 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-5 .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box3-5 .lead P {
+  color: #ffffff;
+}
+.whatsapp {
+  visibility: visible;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    z-index: 999;
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+    text-align: center;
+    border: 3px solid green;
+    border-radius: 50%;
+    transition-duration: 0.5s;
+    font-size: 40px;
+    text-decoration: none;
+    color: green;
+    background-color: #FFF;
+    -webkit-box-shadow: 0 4px 5px -1px rgba(0,0,0,0.5);
+    -moz-box-shadow: 0 4px 5px -1px rgba(0,0,0,0.5);
+    box-shadow: 0 4px 5px -1px rgba;
+  }
